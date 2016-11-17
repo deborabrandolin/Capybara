@@ -1,0 +1,4 @@
+url:
+  site: "http://stage.dotz.com.br/dotzoportunidades"
+  mongo: "http://stage.dotz.com.br/dotzoportunidades-automacao"
+  sucesso: "http://stage.dotz.com.br/dotzoportunidades/Home/Inserir"
